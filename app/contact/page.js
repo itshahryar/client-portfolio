@@ -71,10 +71,10 @@ export default function Contact() {
               Get In Touch
             </div>
             <h1 className="text-5xl md:text-6xl font-light tracking-tight leading-tight mb-4">
-              Let's <span className="font-semibold text-white">Work Together</span>
+              Let&apos;s <span className="font-semibold text-white">Work Together</span>
             </h1>
             <p className="text-lg text-gray-400">
-              Have a project in mind? I'd love to hear from you. Send me a message and I'll respond as soon as possible.
+              Have a project in mind? I&apos;d love to hear from you. Send me a message and I&apos;ll respond as soon as possible.
             </p>
           </div>
 

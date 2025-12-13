@@ -69,7 +69,7 @@ export default function Testimonials() {
                 key={index}
                 className="bg-gradient-to-br from-white/5 to-white/10 border border-white/10 p-6 rounded-xl backdrop-blur-md flex flex-col h-full"
               >
-                <p className="text-white mb-auto flex-grow">"{testimonial.quote}"</p>
+                <p className="text-white mb-auto flex-grow">&ldquo;{testimonial.quote}&rdquo;</p>
                 <footer className="mt-auto pt-4">
                   <div className="text-sm font-semibold text-white">{testimonial.author}</div>
                   <div className="text-xs text-gray-400">{testimonial.role}</div>
