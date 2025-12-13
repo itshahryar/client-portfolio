@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ArrowUpRight, GraduationCap } from "lucide-react";
-import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 export const metadata = {
   title: "Education – Hamna Fatima | Graphic Designer",
