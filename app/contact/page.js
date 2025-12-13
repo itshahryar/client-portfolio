@@ -4,7 +4,7 @@ import { useState } from "react";
 import { toast } from "react-toastify";
 import { ArrowUpRight } from "lucide-react";
 import Header from "../../components/Header";
-import Footer from "@/components/Footer";
+import Footer from "../../components/Footer";
 
 export default function Contact() {
   const [formData, setFormData] = useState({
