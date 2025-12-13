@@ -1,6 +1,6 @@
 import { Code, Palette, Briefcase } from "lucide-react";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export const metadata = {
   title: "Skills – Hamna Fatima | Graphic Designer",
