@@ -35,7 +35,6 @@ https://hamnas-portfolio.vercel.app/
 ## 🛠 Tech Stack
 
 - **Next.js**
-- **React**
 - **JavaScript**
 - **Tailwind CSS**
 
